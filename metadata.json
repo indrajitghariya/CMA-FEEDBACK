@@ -1,0 +1,5 @@
+{
+  "name": "CMA Feedback System",
+  "description": "A high-end teacher feedback management system featuring CSV-to-Grid workflow, automated mapping, and AI-powered performance summaries.",
+  "requestFramePermissions": []
+}
